@@ -1,4 +1,4 @@
-#Fakestagram
+# Fakestagram
 
 The result of me learning Laravel and Vue over a weekend, a fancy CRUD system with an instagram clone sort of wrapper
 
