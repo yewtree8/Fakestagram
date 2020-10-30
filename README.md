@@ -1,6 +1,6 @@
 # Fakestagram
 
-The result of me learning Laravel and Vue over a weekend, a fancy CRUD system with an instagram clone sort of wrapper
+This is the result of me learning Laravel and Vue over a weekend, being a somewhat of a glorified CRUD wrapper with an instagram 'inspired' front end.
 
 
 ### Features
